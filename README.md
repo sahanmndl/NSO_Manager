@@ -1,4 +1,4 @@
-# NSO_Manager_IITBH
+# NSO_Manager
 Manage credits and hours of registered students
 
 Using-
